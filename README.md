@@ -2,9 +2,11 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,django,fastapi,graphql,postgres,rabbitmq,redis,git,gitlab,postman,docker,kubernetes,grafana,selenium,anaconda&theme=light&perline=8)](https://skillicons.dev)
-
 ‍💻 Python and Golang Backend Developer
+
+[![My Skills](https://skillicons.dev/icons?i=py,go,django,fastapi,graphql,postgres,rabbitmq,redis,docker,kubernetes,grafana&theme=light)](https://skillicons.dev)
+
+---
 
 📫 Connect with me:
 
